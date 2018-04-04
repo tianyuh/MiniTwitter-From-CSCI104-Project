@@ -1,7 +1,7 @@
 #ifndef SEARCHWIN_H
 #define SEARCHWIN_H
 
-#include "objects/twiteng.h"
+#include "../objects/twiteng.h"
 
 #include <stdlib.h>
 #include <iostream>

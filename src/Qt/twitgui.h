@@ -1,7 +1,7 @@
 #ifndef TWITGUI_H
 #define TWITGUI_H
 
-#include "objects/twiteng.h"
+#include "../objects/twiteng.h"
 #include "searchwin.h"
 #include "toolsbar.h"
 #include <iostream>

@@ -1,7 +1,7 @@
 #ifndef TOOLSBAR_H
 #define TOOLSBAR_H
 
-#include "objects/twiteng.h"
+#include "../objects/twiteng.h"
 #include <stdlib.h>
 #include <QWidget>
 #include <QPushButton>
